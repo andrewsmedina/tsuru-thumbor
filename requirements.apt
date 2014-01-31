@@ -5,3 +5,4 @@ zlib1g-dev
 libfreetype6-dev
 liblcms1-dev
 libwebp-dev
+python-opencv
